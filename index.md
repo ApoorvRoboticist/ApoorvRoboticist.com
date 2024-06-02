@@ -26,9 +26,10 @@ When I am not doing Machine Learning I read content on human psychology, financi
 
 # Patents
 ### MACHINE LEARNING - BASED FRAMEWORK FOR DRIVABLE SURFACE ANNOTATION
-* Inventors: Sergi Adipraja Widjaja, Venice Erin Baylon Liong, Zhuang Jie Chong, **Apoorv Singh**
+> Inventors: Sergi Adipraja Widjaja, Venice Erin Baylon Liong, Zhuang Jie Chong, **Apoorv Singh**
+  
 ### ENRICHING FEATURE MAPS USING MULTIPLE PLURALITIES OF WINDOWS TO GENERATE BOUNDING BOXES
-* Inventors: Jongwoo Park, **Apoorv Singh**, Varun Bankiti
+> Inventors: Jongwoo Park, **Apoorv Singh**, Varun Bankiti
 
 
 * * *
