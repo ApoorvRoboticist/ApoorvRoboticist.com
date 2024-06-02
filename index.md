@@ -36,51 +36,63 @@ When I am not doing Machine Learning I read content on human psychology, financi
 > US 11,367,289 B1 
   
 ### TRAINING MACHINE LEARNING NETWORKS FOR CONTROLLING VEHICLE OPERATION
-> Inventors: Apoorv Singh, Varun Kumar Reddy Bankiti
+> Inventors: **Apoorv Singh**, Varun Kumar Reddy Bankiti
+> 
 > Application number: US 18/141,014
 
 ### MACHINE LEARNING-BASED FRAMEWORK FOR DRIVABLE SURFACE ANNOTATION
-> Inventors: Sergi, Venice, Zhuang, Apoorv Singh
+> Inventors: Sergi, Venice, Zhuang, **Apoorv Singh**
+> 
 > Application number: US 17/836,974
 
 ### ENRICHING FEATURE MAPS USING MULTIPLE PLURALITIES OF WINDOWS TO GENERATE BOUNDING BOXES
-> Inventors: Jongwoo, Apoorv Singh, Varun
+> Inventors: Jongwoo, **Apoorv Singh**, Varun
+> 
 > Application number: US 17/821,154
 
 ### ENRICHING OBJECT QUERIES USING A BIRD'S-EYE VIEW FEATURE MAP TO GENERATE BOUNDING BOXES
-> Inventors: Jongwoo, Apoorv Singh, Varun
+> Inventors: Jongwoo, **Apoorv Singh**, Varun
+> 
 > Application number: US 17/821,152
 
 ### ENRICHING FEATURE MAPS USING MULTIPLE PLURALITIES OF WINDOWS TO GENERATE BOUNDING BOXES
-> Inventors: Jongwoo, Apoorv Singh, Varun
+> Inventors: Jongwoo, **Apoorv Singh**, Varun
+> 
 > Inventors: Application number: PCT/US2023/072389
 
 ### AGGREGATION OF DATA REPRESENTING GEOGRAPHICAL AREAS
-> Inventors: Apoorv Singh, Varun, Jeongil, Akankshya
+> Inventors: **Apoorv Singh**, Varun, Jeongil, Akankshya
+> 
 > Application number: US 18/091,786
 
 ### ITERATIVE DEPTH ESTIMATION
-> Inventors: Akankshya, Apoorv Singh, Varun
+> Inventors: Akankshya, **Apoorv Singh**, Varun
+> 
 > Application number: US 18/163,708
 
 ### MULTI-MODAL SENSOR-BASED NAVIGATION USING BOUNDING BOXES
-> Inventors: Apoorv Singh
+> Inventors: **Apoorv Singh**
+> 
 > Application number: PCT/US2023/018569
 
 ### Vision-RADAR fusion for DETR-like 3D detections
-> Inventors: Apoorv Singh, Varun
+> Inventors: **Apoorv Singh**, Varun
+> 
 > Application number: US 18/320,910
 
 ### SCENE-DEPENDENT OBJECT QUERY INITIALIZATION STRATEGY USING TEMPORAL CONSISTENCIES
-> Inventors: Apoorv Singh, Varun
+> Inventors: **Apoorv Singh**, Varun
+> 
 > Application number: US18/320,923
 
 ### Augment Bird’s Eye multi-view-Camera detections with Perspective View detections
-> Inventors: Apoorv Singh
+> Inventors: **Apoorv Singh**
+> 
 > Application number: US 63/470,125
 
 ### Surround-Vision & RADAR fusion strategy using Transformers
-> Inventors: Apoorv Singh
+> Inventors: **Apoorv Singh**
+> 
 > Application number: US 63/505,385
 
 
