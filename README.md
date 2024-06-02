@@ -1,1 +1,8 @@
-# apoorv-ml.github.io
+# Education
+
+# Patents
+
+# Research Publications
+
+# AI Community Contributions
+
