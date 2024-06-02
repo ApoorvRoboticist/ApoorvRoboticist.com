@@ -12,20 +12,26 @@ I have a number of patents and published research papers under my name, I also b
 
 When I am not doing Machine Learning I read content on human psychology, financial investments, the Future of humanity, and macroeconomics; do Work-outs of all kinds; Cook healthy & tasty meals.
 
-
-
+* * *
 
 # Education
 
-## Carnegie Mellon University
+### Carnegie Mellon University
 > Master's in Robotics, School of Computer Science (2018-2020)
 
-## Delhi Technological University
+### Delhi Technological University
 > Bachelor's in Technology (2011-2015)
+
+* * *
 
 # Patents
 
+* * *
+
 # Research Publications
 
+* * *
+
 # AI Community Contributions
+* * *
 
