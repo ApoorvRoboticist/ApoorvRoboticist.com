@@ -2,7 +2,9 @@
 [LinkedIn](https://www.linkedin.com/in/apoorv93singh/)
 [Twitter](https://x.com/singaporv93)
 
+<p align="center">
 <img width="403" alt="image" src="https://github.com/apoorv-ml/Apoorv-ml.github.io/assets/123181671/f6c32c61-f43a-498f-993d-45ae3f2b9f26">
+</p>
 
 I am a Robotics graduate student from the School of Computer Science - at Carnegie Mellon University (Pittsburgh). I specialize in Computer Vision/ Machine Learning, focusing on Autonomous vehicles. I work at Motional (A self-driving car company) as a Senior Engineer (Autonomy). 
 In my current role, I am responsible for developing novel state-of-the-art ML-based Computer Vision algorithms to make better and faster online perception systems. I, along with my team, ensure that the ML networks I develop are efficient enough to be deployed on our production cars as well. 
