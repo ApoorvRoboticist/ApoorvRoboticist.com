@@ -8,6 +8,11 @@ I have a number of patents and published research papers under my name, I also b
 
 When I am not doing Machine Learning I read content on human psychology, financial investments, the Future of humanity, and macroeconomics; do Work-outs of all kinds; Cook healthy & tasty meals.
 
+[Google Scholar](https://scholar.google.com/citations?user=WWPQ8UMAAAAJ&hl=en&authuser=1)
+[LinkedIn](https://www.linkedin.com/in/apoorv93singh/)
+[Twitter](https://x.com/singaporv93)
+
+
 
 # Education
 
