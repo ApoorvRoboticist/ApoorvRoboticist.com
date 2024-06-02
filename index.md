@@ -32,6 +32,7 @@ When I am not doing Machine Learning I read content on human psychology, financi
 # Patents
 ### MACHINE LEARNING - BASED FRAMEWORK FOR DRIVABLE SURFACE ANNOTATION
 > Inventors: Sergi Adipraja Widjaja, Venice Erin Baylon Liong, Zhuang Jie Chong, **Apoorv Singh**
+> 
 > US 11,367,289 B1 
   
 ### TRAINING MACHINE LEARNING NETWORKS FOR CONTROLLING VEHICLE OPERATION
