@@ -163,5 +163,38 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 * * *
 
 # AI Community Contributions
+
+### Keynote: Vision-based Perception for Autonomous Driving
+> Location: IV 2024, Jeju Islands, Korea
+
+### Keynote: 
+
+### Keynote: 
+
+### Workshop Organizer
+> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
+
+### Panelist on Session on AI for Autonomous Driving
+> Co-panelists: Shivam Gautam, Fang-Chieh Chou, Aleksandr Petiushko, Sachithra Hemachandra
+>
+> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
+
+### Publication Peer-Review
+> Location: NeurIPS’23, CVPR’23, ICRA’22, ICML’22, ICCV’23, IEEE CAI’23, AAAI’23 and lots more, totalling ~75.
+
+### Master's Admission Committee
+Location: Robotics Institute, Carnegie Mellon University
+Years: 2023, 2024..
+
+### Technical Judge
+Location: Pittsburgh Regional Science & Engineering Fair, 2023
+
+
+### Technical Judge
+> Location: FIRST Robotics Competition, 2023
+
+### Conference Program Chairs
+> Location: NeurIPS 2022, CVPR'23 Precognition Workshop, AAAI-2023
+
 * * *
 
