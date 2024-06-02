@@ -168,8 +168,10 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 > Location: IV 2024, Jeju Islands, Korea
 
 ### Keynote: 
+> TODO
 
 ### Keynote: 
+> TODO
 
 ### Workshop Organizer
 > Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
@@ -183,12 +185,12 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 > Location: NeurIPS’23, CVPR’23, ICRA’22, ICML’22, ICCV’23, IEEE CAI’23, AAAI’23 and lots more, totalling ~75.
 
 ### Master's Admission Committee
-Location: Robotics Institute, Carnegie Mellon University
-Years: 2023, 2024..
+> Location: Robotics Institute, Carnegie Mellon University
+>
+> Years: 2023, 2024..
 
 ### Technical Judge
-Location: Pittsburgh Regional Science & Engineering Fair, 2023
-
+> Location: Pittsburgh Regional Science & Engineering Fair, 2023
 
 ### Technical Judge
 > Location: FIRST Robotics Competition, 2023
