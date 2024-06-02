@@ -100,6 +100,65 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 * * *
 
 # Research Publications
+### Surround-view vision-based 3d detection for autonomous driving: A survey
+> Authors: **Apoorv Singh**
+> 
+> Conference: 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
+
+### Vision-radar fusion for robotics bev detections: A survey
+> Authors: **Apoorv Singh**
+> 
+> Conference: 2023 IEEE Intelligent Vehicles Symposium (IV)
+
+### Transformer-based sensor fusion for autonomous driving: A survey
+> Authors: **Apoorv Singh**
+> 
+> Conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
+
+### Training Strategies for Vision Transformers for Object Detection
+> Authors: **Apoorv Singh**
+> 
+> Conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
+
+### 3m3d: Multi-view, multi-path, multi-representation for 3d object detection
+> Authors: J Park, **Apoorv Singh**, V Bankiti
+> 
+> Conference: 2023 IEEE International Conference on Image Processing (ICIP), 1930-1934	
+
+### A Review on Objective-Driven Artificial Intelligence
+> Authors: **Apoorv Singh**
+> 
+> Conference: arXiv preprint arXiv:2308.10135	
+
+### End-to-end Autonomous Driving using Deep Learning: A Systematic Review
+> Authors: **Apoorv Singh**
+> 
+> Conference: arXiv preprint arXiv:2311.18636
+
+### Trajectory-Prediction with Vision: A Survey
+> Authors: **Apoorv Singh**
+> 
+> Conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
+
+### Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review
+> Authors: **Apoorv Singh**, G Raut, A Choudhary
+> 
+> Conference: arXiv preprint arXiv:2405.15777	
+
+### Generative AI in Vision: A Survey on Models, Metrics and Applications
+> Authors: G Raut, **Apoorv Singh**
+> 
+> Conference: arXiv preprint arXiv:2402.16369
+
+### Traffic Policeman Gesture Recognition With Spatial Temporal Graph Convolution Network
+> Authors: **Apoorv Singh**, A Choudhary
+> 
+> Conference: 2023 IEEE Conference on Artificial Intelligence (CAI), 40-41
+
+### Augmenting Vision Queries with RADAR for BEV Detection in Autonomous Driving
+> Authors: **Apoorv Singh**
+> 
+> Conference: 2023 IEEE Conference on Artificial Intelligence (CAI), 53-54
 
 * * *
 
