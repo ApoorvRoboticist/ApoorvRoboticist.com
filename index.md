@@ -17,6 +17,12 @@ When I am not doing Machine Learning I read content on human psychology, financi
 
 # Education
 
+## Carnegie Mellon University
+> Master's in Robotics, School of Computer Science (2018-2020)
+
+## Delhi Technological University
+> Bachelor's in Technology (2011-2015)
+
 # Patents
 
 # Research Publications
