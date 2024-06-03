@@ -33,15 +33,19 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 * * *
 # Professional Experience
 ### Motional (2020-Present)
-> Tech Lead and Sr. Machine Learning Engineer
+> Tech Lead and Sr. Machine Learning Engineer (Perception)
 >
 > Developing state-of-the-art Vision based Machine Learning network for autonomous cars.
 
 ### Daimler Trucks North America (2018-2020)
+> Research Collaborator (Perception Lead)
+>
 > Developed a reliable high-speed on-coming collision prevention system on CARLA sim for country roads.
 
 ### Maruti Suzuki (2015-2018)
-> Graduate Engineer - Homologation team.
+> Graduate Engineer
+> 
+> Homologation team
 
 * * *
 # Patents
