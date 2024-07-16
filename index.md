@@ -208,7 +208,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 # AI Community Contributions
 
 ### Publication Peer-Review
-> Location: NeurIPS’23, CVPR’23, ICRA’22, ICML’22, ICCV’23, IEEE CAI’23, AAAI’23 and lots more, totalling ~75.
+> Location: NeurIPS’23, CVPR’23, ICRA’22, ICML’22, ICCV’23, IEEE CAI’23, AAAI’23 and lots more, totalling ~85.
 
 ### Master's Admission Committee
 > Location: Robotics Institute, Carnegie Mellon University
@@ -227,19 +227,22 @@ and LiDAR intensity maps. This Project led to a patent, too.
 * * *
 
 ## Invited Keynote/ Panel Sessions
-### Keynote: Vision-based Perception for Autonomous Driving
+### Keynote: Vision-based Perception for Autonomous Driving [Link](https://www.ce.cit.tum.de/air/research/ddiva/ddiva23/)
+> Location: IV 2023, Alaska, USA
+
+### Keynote: Vision-based Perception for Autonomous Driving [Link](https://www.ce.cit.tum.de/air/research/ddiva/ddiva24/)
 > Location: IV 2024, Jeju Islands, Korea
 
-### Keynote: 
-> TODO
+### Keynote: 1st Workshop on Cooperative Intelligence for Embodied AI [Link](https://coop-intelligence.github.io/)
+> Location: European Conference on Computer Vision 2024 in Milan, Italy
 
-### Keynote: 
-> TODO
-
-### Workshop Organizer
+### Workshop Organizer. [Link](https://cai.ieee.org/2023/panels/)
 > Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
+>
+> Organized a workshop on autonomous vehicles with a panel discussion and two guest lecturers in Santa Clara,
+California, to promote research on Autonomous driving.
 
-### Panelist on Session on AI for Autonomous Driving
+### Panelist on Session on AI for Autonomous Driving. [Link](https://cai.ieee.org/2023/panels/)
 > Co-panelists: Shivam Gautam, Fang-Chieh Chou, Aleksandr Petiushko, Sachithra Hemachandra
 >
 > Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
