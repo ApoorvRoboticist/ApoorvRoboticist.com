@@ -158,47 +158,47 @@ and LiDAR intensity maps. This Project led to a patent, too.
 > 
 > Conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
 
-### Training Strategies for Vision Transformers for Object Detection
+### Training Strategies for Vision Transformers for Object Detection. [Paper Link](https://openaccess.thecvf.com/content/CVPR2023W/WAD/papers/Singh_Training_Strategies_for_Vision_Transformers_for_Object_Detection_CVPRW_2023_paper.pdf)
 > Authors: **Apoorv Singh**
 > 
 > Conference: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition
 
-### 3m3d: Multi-view, multi-path, multi-representation for 3d object detection
+### 3m3d: Multi-view, multi-path, multi-representation for 3d object detection. [Paper Link](https://arxiv.org/abs/2302.08231)
 > Authors: J Park, **Apoorv Singh**, V Bankiti
 > 
 > Conference: 2023 IEEE International Conference on Image Processing (ICIP), 1930-1934	
 
-### A Review on Objective-Driven Artificial Intelligence
+### A Review on Objective-Driven Artificial Intelligence. [Paper Link](https://arxiv.org/pdf/2308.10135)
 > Authors: **Apoorv Singh**
 > 
 > Conference: arXiv preprint arXiv:2308.10135	
 
-### End-to-end Autonomous Driving using Deep Learning: A Systematic Review
+### End-to-end Autonomous Driving using Deep Learning: A Systematic Review. [Paper Link]()
 > Authors: **Apoorv Singh**
 > 
 > Conference: arXiv preprint arXiv:2311.18636
 
-### Trajectory-Prediction with Vision: A Survey
+### Trajectory-Prediction with Vision: A Survey. [Paper Link](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Singh_Trajectory-Prediction_with_Vision_A_Survey_ICCVW_2023_paper.pdf)
 > Authors: **Apoorv Singh**
 > 
 > Conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
 
-### Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review
+### Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review. [Paper Link](https://arxiv.org/pdf/2405.15777)
 > Authors: **Apoorv Singh**, G Raut, A Choudhary
 > 
 > Conference: arXiv preprint arXiv:2405.15777	
 
-### Generative AI in Vision: A Survey on Models, Metrics and Applications
+### Generative AI in Vision: A Survey on Models, Metrics and Applications. [Paper Link](https://arxiv.org/pdf/2402.16369)
 > Authors: G Raut, **Apoorv Singh**
 > 
 > Conference: arXiv preprint arXiv:2402.16369
 
-### Traffic Policeman Gesture Recognition With Spatial Temporal Graph Convolution Network
+### Traffic Policeman Gesture Recognition With Spatial Temporal Graph Convolution Network. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10195048)
 > Authors: **Apoorv Singh**, A Choudhary
 > 
 > Conference: 2023 IEEE Conference on Artificial Intelligence (CAI), 40-41
 
-### Augmenting Vision Queries with RADAR for BEV Detection in Autonomous Driving
+### Augmenting Vision Queries with RADAR for BEV Detection in Autonomous Driving. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10195095)
 > Authors: **Apoorv Singh**
 > 
 > Conference: 2023 IEEE Conference on Artificial Intelligence (CAI), 53-54
