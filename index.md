@@ -143,17 +143,17 @@ and LiDAR intensity maps. This Project led to a patent, too.
 * * *
 
 # Research Publications
-### Surround-view vision-based 3d detection for autonomous driving: A survey
+### Surround-view vision-based 3d detection for autonomous driving: A survey. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10350669)
 > Authors: **Apoorv Singh**
 > 
 > Conference: 2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)
 
-### Vision-radar fusion for robotics bev detections: A survey
+### Vision-radar fusion for robotics bev detections: A survey. [Paper Link](https://ieeexplore.ieee.org/abstract/document/10186647)
 > Authors: **Apoorv Singh**
 > 
 > Conference: 2023 IEEE Intelligent Vehicles Symposium (IV)
 
-### Transformer-based sensor fusion for autonomous driving: A survey
+### Transformer-based sensor fusion for autonomous driving: A survey. [Paper Link](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Singh_Transformer-Based_Sensor_Fusion_for_Autonomous_Driving_A_Survey_ICCVW_2023_paper.pdf)
 > Authors: **Apoorv Singh**
 > 
 > Conference: Proceedings of the IEEE/CVF International Conference on Computer Vision
