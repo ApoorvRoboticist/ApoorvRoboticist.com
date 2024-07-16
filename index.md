@@ -42,6 +42,20 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 > Tech lead of 5 Machine Learning and Robotics engineers and interns to develop a state-of-the-art vision
 network that runs in real-time on-car. This network uses eight surround-view cameras and predicts
 agents in the 3D world. [Authored a blog for this project, published on Motional's portal](https://motional.com/news/technically-speaking-improving-av-perception-through-transformative-machine-learning)
+>
+> Deployed numerous Vision-first Deep Learning models on-car using TensorRT optimizations.
+> 
+> Managed Reading Group and ML literature surveys within a team of 40+ Perception Engineers.
+>
+> Co-authored 13 patents and 9 selected research papers in computer vision and computer science domains.
+
+### Aptiv (Summer'19)
+> Perception Intern (AI)
+>
+> Developed segmentation algorithm for road intersections to auto-annotate H.D. Maps by fusing images
+and LiDAR intensity maps. This Project led to a patent, too.
+>
+> The Success of this internship project led to the forming of a team of three full-time software engineers.
 
 ### Daimler Trucks North America (2018-2020)
 > Research Collaborator (Perception Lead)
