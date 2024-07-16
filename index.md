@@ -26,9 +26,11 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 
 ### Carnegie Mellon University
 > Master's in Robotics, School of Computer Science (2018-2020)
+> Specialized in Artificial Intelligence, Computer Vision, Computer Science, and Robotics.
 
 ### Delhi Technological University
 > Bachelor's in Technology (2011-2015)
+> Specialized in Artificial Intelligence, and Robotics
 
 * * *
 # Professional Experience
