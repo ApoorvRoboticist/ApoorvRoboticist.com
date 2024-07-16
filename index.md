@@ -207,23 +207,6 @@ and LiDAR intensity maps. This Project led to a patent, too.
 
 # AI Community Contributions
 
-### Keynote: Vision-based Perception for Autonomous Driving
-> Location: IV 2024, Jeju Islands, Korea
-
-### Keynote: 
-> TODO
-
-### Keynote: 
-> TODO
-
-### Workshop Organizer
-> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
-
-### Panelist on Session on AI for Autonomous Driving
-> Co-panelists: Shivam Gautam, Fang-Chieh Chou, Aleksandr Petiushko, Sachithra Hemachandra
->
-> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
-
 ### Publication Peer-Review
 > Location: NeurIPS’23, CVPR’23, ICRA’22, ICML’22, ICCV’23, IEEE CAI’23, AAAI’23 and lots more, totalling ~75.
 
@@ -243,8 +226,27 @@ and LiDAR intensity maps. This Project led to a patent, too.
 
 * * *
 
+## Invited Keynote/ Panel Sessions
+### Keynote: Vision-based Perception for Autonomous Driving
+> Location: IV 2024, Jeju Islands, Korea
 
-# In The Press
+### Keynote: 
+> TODO
+
+### Keynote: 
+> TODO
+
+### Workshop Organizer
+> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
+
+### Panelist on Session on AI for Autonomous Driving
+> Co-panelists: Shivam Gautam, Fang-Chieh Chou, Aleksandr Petiushko, Sachithra Hemachandra
+>
+> Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
+
+* * *
+
+## In The Press
 ### Vanguard
 > Media article featured my research papers on efficient transformers. [Link](https://www.vanguardngr.com/2023/08/driving-innovation-breakthrough-ai-research-revolutionizes-autonomous-vehicles/)
 
