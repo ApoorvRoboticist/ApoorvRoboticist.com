@@ -26,18 +26,22 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 
 ### Carnegie Mellon University
 > Master's in Robotics, School of Computer Science (2018-2020)
+> 
 > Specialized in Artificial Intelligence, Computer Vision, Computer Science, and Robotics.
 
 ### Delhi Technological University
 > Bachelor's in Technology (2011-2015)
-> Specialized in Artificial Intelligence, and Robotics
+> 
+> Specialized in Artificial Intelligence and Robotics
 
 * * *
 # Professional Experience
 ### Motional (2020-Present)
 > Tech Lead and Sr. Machine Learning Engineer (Perception)
 >
-> Developing state-of-the-art Vision based Machine Learning network for autonomous cars.
+> Tech lead of 5 Machine Learning and Robotics engineers and interns to develop a state-of-the-art vision
+network that runs in real-time on-car. This network uses eight surround-view cameras and predicts
+agents in the 3D world. [Authored a blog for this project, published on Motional's portal](https://motional.com/news/technically-speaking-improving-av-perception-through-transformative-machine-learning)
 
 ### Daimler Trucks North America (2018-2020)
 > Research Collaborator (Perception Lead)
