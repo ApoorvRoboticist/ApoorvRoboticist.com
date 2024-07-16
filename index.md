@@ -36,7 +36,7 @@ When I am not doing Machine Learning, I read content on human psychology, financ
 
 * * *
 # Professional Experience
-### Motional (2020-Present)
+### Motional (2020-Present), California USA
 > Tech Lead and Sr. Machine Learning Engineer (Perception)
 >
 > Tech lead of 5 Machine Learning and Robotics engineers and interns to develop a state-of-the-art vision
@@ -49,7 +49,7 @@ agents in the 3D world. [Authored a blog for this project, published on Motional
 >
 > Co-authored 13 patents and 9 selected research papers in computer vision and computer science domains.
 
-### Aptiv (Summer'19)
+### Aptiv (Summer'19), Pennsylvania USA
 > Perception Intern (AI)
 >
 > Developed segmentation algorithm for road intersections to auto-annotate H.D. Maps by fusing images
@@ -57,15 +57,20 @@ and LiDAR intensity maps. This Project led to a patent, too.
 >
 > The Success of this internship project led to the forming of a team of three full-time software engineers.
 
-### Daimler Trucks North America (2018-2020)
+### Daimler Trucks North America (2018-2020), Oregon USA
 > Research Collaborator (Perception Lead)
 >
 > Developed a reliable high-speed on-coming collision prevention system on CARLA sim for country roads.
 
-### Maruti Suzuki (2015-2018)
-> Graduate Engineer
+### Maruti Suzuki (2015-2018), India
+> Assistant Manager, Research and Development
 > 
-> Homologation team
+> Led a smart mobility project and cross-collaborated with Homologation teams and Japanese researchers. 
+
+### MSSL Global RSA (Summer'13), South Africa
+> Summer intern
+>
+> Developed a computer vision-based part detection and quality insurance tool that helped save on the downtime of a 6 degrees of freedom robotic arm at the paint shop.
 
 * * *
 # Patents
