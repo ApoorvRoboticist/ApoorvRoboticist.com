@@ -77,27 +77,27 @@ and LiDAR intensity maps. This Project led to a patent, too.
 ### MACHINE LEARNING - BASED FRAMEWORK FOR DRIVABLE SURFACE ANNOTATION
 > Inventors: Sergi Adipraja Widjaja, Venice Erin Baylon Liong, Zhuang Jie Chong, **Apoorv Singh**
 > 
-> US 11,367,289 B1 
+> [US 11,367,289 B1](https://patentimages.storage.googleapis.com/ab/ab/75/722fb5e1e59f4a/US11367289.pdf)
   
 ### TRAINING MACHINE LEARNING NETWORKS FOR CONTROLLING VEHICLE OPERATION
 > Inventors: **Apoorv Singh**, Varun Kumar Reddy Bankiti
-> 
+>
 > Application number: US 18/141,014
 
 ### MACHINE LEARNING-BASED FRAMEWORK FOR DRIVABLE SURFACE ANNOTATION
 > Inventors: Sergi, Venice, Zhuang, **Apoorv Singh**
-> 
-> Application number: US 17/836,974
+>
+> [US 2023/0016246 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20230016246)
 
 ### ENRICHING FEATURE MAPS USING MULTIPLE PLURALITIES OF WINDOWS TO GENERATE BOUNDING BOXES
 > Inventors: Jongwoo, **Apoorv Singh**, Varun
 > 
-> Application number: US 17/821,154
+> [US 2024/0062520 A1](https://patentimages.storage.googleapis.com/38/d2/bd/25f45d5e48c1e7/US20240062520A1.pdf)
 
 ### ENRICHING OBJECT QUERIES USING A BIRD'S-EYE VIEW FEATURE MAP TO GENERATE BOUNDING BOXES
 > Inventors: Jongwoo, **Apoorv Singh**, Varun
 > 
-> Application number: US 17/821,152
+> [US 2024/0062520 A1](https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/20240062520)
 
 ### ENRICHING FEATURE MAPS USING MULTIPLE PLURALITIES OF WINDOWS TO GENERATE BOUNDING BOXES
 > Inventors: Jongwoo, **Apoorv Singh**, Varun
@@ -107,7 +107,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 ### AGGREGATION OF DATA REPRESENTING GEOGRAPHICAL AREAS
 > Inventors: **Apoorv Singh**, Varun, Jeongil, Akankshya
 > 
-> Application number: US 18/091,786
+> [US 2024-0125617 A1](https://patentimages.storage.googleapis.com/8f/37/17/ba41a9ccf730d0/US20240125617A1.pdf)
 
 ### ITERATIVE DEPTH ESTIMATION
 > Inventors: Akankshya, **Apoorv Singh**, Varun
@@ -122,12 +122,12 @@ and LiDAR intensity maps. This Project led to a patent, too.
 ### Vision-RADAR fusion for DETR-like 3D detections
 > Inventors: **Apoorv Singh**, Varun
 > 
-> Application number: US 18/320,910
+> [US 2024-0127596 A1](https://patentimages.storage.googleapis.com/a3/08/34/98ebcef03076e5/US20240127596A1.pdf)
 
 ### SCENE-DEPENDENT OBJECT QUERY INITIALIZATION STRATEGY USING TEMPORAL CONSISTENCIES
 > Inventors: **Apoorv Singh**, Varun
 > 
-> Application number: US18/320,923
+> [US 2024-0127597 A1](https://patentimages.storage.googleapis.com/1a/17/08/1cc0257839d2b5/US20240127597A1.pdf)
 
 ### Augment Bird’s Eye multi-view-Camera detections with Perspective View detections
 > Inventors: **Apoorv Singh**
