@@ -243,3 +243,16 @@ and LiDAR intensity maps. This Project led to a patent, too.
 
 * * *
 
+
+# In The Press
+> Vanguard media article featured my research papers on efficient transformers. [Link](https://www.vanguardngr.com/2023/08/driving-innovation-breakthrough-ai-research-revolutionizes-autonomous-vehicles/)
+>
+> Outlook India media article featured my patent on generated automated HD Maps. [Link](https://www.outlookindia.com/business-spotlight/how-a-new-patent-brings-us-one-step-closer-to-the-future-of-autonomous-driving-news-281487)
+>
+> Placement Interview: Interviewed on placement strategy with 100k views. [Link](https://www.youtube.com/watch?v=8r9xD5nRuYo&ab_channel=PlacementInterview)
+>
+> Motional's news media, authored technical blog. [Link](https://motional.com/news/technically-speaking-improving-av-perception-through-transformative-machine-learning)
+>
+> DTU Supermileage: College team features in multiple news media for competition in the Philippines, Manila, 2014. [The Hindu](https://www.thehindu.com/sci-tech/tech-whizzes-from-india-shine-at-virtual-shell-eco-marathon-asia-off-track-awards/article31819842.ece); [SundayGuardian](https://sundayguardianlive.com/people-society/3555-eco-marathon-platform-young-innovators-showcase-their-talent}); [indiaeducationdiary](https://indiaeducationdiary.in/shell-announces-winners-of-the-eco-marathon-virtual-league-champion/); [hydrogenfuelnews](https://www.hydrogenfuelnews.com/shell-eco-marathon-highlights-the-latest-capabilities-of-clean-vehicles/8534373/); [Motoroids](https://www.motoroids.com/news/14-student-teams-india-take-mileage-challenge-shell-eco-marathon-asia-2014/); [Shell India](https://www.prnewswire.com/in/news-releases/delhi-technology-university-wins-the-communications-award-at-shell-make-the-future-singapore-677352033.html); [DTU Blogpost](https://dtusupermileage.blogspot.com/).
+
+* * *
