@@ -12,11 +12,11 @@
 * * *
 
 I am a Robotics graduate from the School of Computer Science (Robotics) at Carnegie Mellon University (Pittsburgh). I specialize in Computer Vision/ Machine Learning, focusing on Autonomous vehicles. I work at Motional (A self-driving car company) as a Tech Lead and Sr. Machine Learning Engineer. 
-In my current role, I am responsible for developing transformer-based state-of-the-art ML/Computer Vision algorithms to build better and faster online perception systems. I, along with my team, ensure that the ML networks I develop are efficient enough to be deployed on our production cars as well. Our networks take multi-modal input and give runtime efficient accurate perception output (Bounding boxes, Segmentation masks, and much more). \\
+In my current role, I am responsible for developing transformer-based state-of-the-art ML/Computer Vision algorithms to build better and faster online perception systems. I, along with my team, ensure that the ML networks I develop are efficient enough to be deployed on our production cars as well. Our networks take multi-modal input and give runtime efficient accurate perception output (Bounding boxes, Segmentation masks, and much more). \
 
-Previously, in 2019, I worked at Aptiv as a perception intern. There, I developed a novel deep-learning-based auto-annotation tool for HD Maps. We patented the technology as well. Also, I have worked as a researcher for an autonomous truck collision avoidance project at Carnegie Mellon, sponsored by Daimler Trucks North America. I was responsible for the Perception, Tracking, and Sensor Fusion pipeline. Before coming to CMU, I worked at the RnD division of Maruti Suzuki. \\
+Previously, in 2019, I worked at Aptiv as a perception intern. There, I developed a novel deep-learning-based auto-annotation tool for HD Maps. We patented the technology as well. Also, I have worked as a researcher for an autonomous truck collision avoidance project at Carnegie Mellon, sponsored by Daimler Trucks North America. I was responsible for the Perception, Tracking, and Sensor Fusion pipeline. Before coming to CMU, I worked at the RnD division of Maruti Suzuki. \
 
-I co-founded a startup at CMU, called Vera and won a small NSF grant from a business competition. \\
+I co-founded a startup at CMU, called Vera and won a small NSF grant from a business competition. \
 
 I have several patents and published research papers, mostly first authored. I also believe in giving back to the Machine Learning research community through research paper reviews and keynote tutorial sessions. When I am not doing Machine Learning, I read content on human psychology, financial investments, the Future of humanity, and macroeconomics.
 * * *
