@@ -61,7 +61,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 >
 > Developed a reliable high-speed on-coming collision prevention system on CARLA sim for country roads.
 
-### Vera, Pennsylvania USA
+### Vera (Fall' 2019), Pennsylvania USA
 > Co-founder
 >
 > Developed an AI assistant for lawyers, to help with paralegal tasks. Won an NSF grant through business competition at Carnegie Mellon.
