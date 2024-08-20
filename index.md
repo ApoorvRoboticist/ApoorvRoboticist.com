@@ -190,7 +190,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 ### Multi-agent Collaborative Perception for Robotic Fleet: A Systematic Review. [Paper Link](https://arxiv.org/pdf/2405.15777)
 > Authors: **Apoorv Singh**, G Raut, A Choudhary
 > 
-> Conference: arXiv preprint arXiv:2405.15777	
+> Conference: Accepted in ECCV'24 (Conference yet to happen)
 
 ### Generative AI in Vision: A Survey on Models, Metrics and Applications. [Paper Link](https://arxiv.org/pdf/2402.16369)
 > Authors: G Raut, **Apoorv Singh**
