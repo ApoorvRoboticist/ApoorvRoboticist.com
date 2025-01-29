@@ -217,7 +217,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 ### Master's Admission Committee
 > Location: Robotics Institute, Carnegie Mellon University
 >
-> Years: 2023, 2024..
+> Years: 2023, 2024, 2025.
 
 ### Technical Judge
 > Location: Pittsburgh Regional Science & Engineering Fair, 2023
@@ -230,7 +230,7 @@ and LiDAR intensity maps. This Project led to a patent, too.
 
 * * *
 
-## Invited Keynote/ Panel Sessions
+## Keynote/ Panel Sessions
 ### Keynote: Vision-based Perception for Autonomous Driving [Link](https://www.ce.cit.tum.de/air/research/ddiva/ddiva23/)
 > Location: IV 2023, Alaska, USA
 
@@ -250,32 +250,5 @@ California, to promote research on Autonomous driving.
 > Co-panelists: Shivam Gautam, Fang-Chieh Chou, Aleksandr Petiushko, Sachithra Hemachandra
 >
 > Location: 2023 IEEE Conference on Artificial Intelligence (IEEE CAI)
-
-* * *
-
-## In The Press
-### Vanguard
-> Media article featured my research papers on efficient transformers. [Link](https://www.vanguardngr.com/2023/08/driving-innovation-breakthrough-ai-research-revolutionizes-autonomous-vehicles/)
-
-### Outlook India
->  media article featured my patent on generated automated HD Maps. [Link](https://www.outlookindia.com/business-spotlight/how-a-new-patent-brings-us-one-step-closer-to-the-future-of-autonomous-driving-news-281487)
-
-### Placement Interview
-> Interviewed on placement strategy with 100k views. [Link](https://www.youtube.com/watch?v=8r9xD5nRuYo&ab_channel=PlacementInterview)
-
-### Motional Media
-> Authored technical blog. [Link](https://motional.com/news/technically-speaking-improving-av-perception-through-transformative-machine-learning)
-
-### DTU Supermileage Media
-> College team features in multiple news media for competition in the Philippines, Manila, 2014. [The Hindu](https://www.thehindu.com/sci-tech/tech-whizzes-from-india-shine-at-virtual-shell-eco-marathon-asia-off-track-awards/article31819842.ece); [SundayGuardian](https://sundayguardianlive.com/people-society/3555-eco-marathon-platform-young-innovators-showcase-their-talent}); [indiaeducationdiary](https://indiaeducationdiary.in/shell-announces-winners-of-the-eco-marathon-virtual-league-champion/); [hydrogenfuelnews](https://www.hydrogenfuelnews.com/shell-eco-marathon-highlights-the-latest-capabilities-of-clean-vehicles/8534373/); [Motoroids](https://www.motoroids.com/news/14-student-teams-india-take-mileage-challenge-shell-eco-marathon-asia-2014/); [Shell India](https://www.prnewswire.com/in/news-releases/delhi-technology-university-wins-the-communications-award-at-shell-make-the-future-singapore-677352033.html); [DTU Blogpost](https://dtusupermileage.blogspot.com/).
-
-### Business Wire
-> The project I led was featured in the news about integrating Ambarella chips for our Computer Vision models. [Link](https://www.businesswire.com/news/home/20210302005107/en/Motional-Selects-Ambarella-CVflow%C2%AE-AI-Vision-Processors-for-its-Driverless-Vehicles).
-
-### Motional Social Media
-> Motional's Social Media featured in a day-in-life video as a Machine Learning Researcher. [Linkedin](https://www.linkedin.com/posts/motionaldrive_day-in-the-life-meet-apoorv-singh-activity-7065365239155826688-P5S-/?utm_source=share&utm_medium=member_desktop); [Instagram](https://www.instagram.com/reel/Csb5xdLJCiL/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZLinA%3D%3D).
-
-### Motional LinkedIn Features
-> [Technical Blog](https://www.linkedin.com/posts/motionaldrive_technically-speaking-improving-av-perception-activity-7072979124473974784-zOxR?utm_source=share&utm_medium=member_desktop); [Keynote session](https://www.linkedin.com/posts/motionaldrive_apoorv-singh-motionals-senior-machine-learning-activity-7070427111013937152-Y6MK?utm_source=share&utm_medium=member_desktop); [Work in Motional](https://www.linkedin.com/feed/update/urn:li:activity:7011734111157428224/?utm_source=share&utm_medium=member_desktop)
 
 * * *
